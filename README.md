@@ -16,3 +16,5 @@ Slave  radio - 4 RX, 5 TX
 Button is connected to PIN  6
 
 Piezo speaker is connected to PIN 9
+
+![alt text](https://raw.githubusercontent.com/ok1cdj/FT817-satmode/master/IMG_20200801_121522.jpg)
