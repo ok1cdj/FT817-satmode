@@ -17,4 +17,7 @@ Button is connected to PIN  6
 
 Piezo speaker is connected to PIN 9
 
+KIT is available here: https://www.hamshop.cz/radio-accessories-c25/ft817-ft818-dual-tune-i393/
+
+
 ![alt text](https://raw.githubusercontent.com/ok1cdj/FT817-satmode/master/IMG_20200801_121522.jpg)
